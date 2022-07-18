@@ -35,3 +35,7 @@ This repository is still under development and I will continue to add more featu
 
 * Status and Calls Features.
 * Uploding media data .
+
+
+## License
+[MIT License](LICENSE)
